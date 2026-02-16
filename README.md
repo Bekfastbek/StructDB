@@ -1,0 +1,1 @@
+# Abandoned project! The plan was to make a sort of databse application which stores info like excel but using Win32 and C structs and all I have managed is a custom exit dialogue with a blank gui before moving to my Barebot project
